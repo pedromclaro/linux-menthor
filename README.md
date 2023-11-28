@@ -3,22 +3,31 @@
 
 ## Conteúdo do curso:
 ### 1. __Fundamentos__
-   - Onde o Linux é usado
-   - Sua História
-   - O que é Linux
+   - Onde o Linux é usado - ✅ ✏️
+   - Sua História - ✅ ✏️
+   - O que é Linux - ✅ ✏️
 ### 2. __Instalação Linux__
-  - Guia passo a passo desde criar um pendrive bootável com a distro Linux Mint até iniciarmos o sistema
-  - Conhecer o ambiente do Linux Mint
+  - Guia passo a passo desde criar um pendrive bootável com a distro Linux Mint até iniciarmos o sistema - ✅ ✏️
+  - Conhecer o ambiente do Linux Mint - 🔁
 ### 3. __Instalação de Programas__
-  - Instalar programas via interface gráfica
-  - Instalar programas via terminal
+  - Instalar programas via interface gráfica  - 🔁 ✏️
+  - Instalar programas via terminal -  ✅ ✏️
 ### 4. __Terminal Linux__
- - Fundamentos do terminal, principais comandos e como gerenciar diretórios e arquivos
-   #### UserLand
-     - Um guia rápido de como treinar comandos do terminal no smartphone utilizando o UserLand
+ - Fundamentos do terminal, principais comandos e como gerenciar diretórios e arquivos - ✅ ✏️
+   #### WSL e UserLAnd
+     - Um guia rápido de como treinar comandos do terminal no WSL e no UserLAnd - 👷‍♂️ ✏️
 ### 5. __Aprenda mais__
-  - Veja como continuar expandindo seu conhecimento no mundo Linux
+  - Veja como continuar expandindo seu conhecimento no mundo Linux - 🔁 ✏️
 
 ___
 
-Este curso foi escrito por [Pedro Afonso](https://www.pedromclaro.com)
+### Legendas:
+
+- ✅ - Aula já finalizada
+- 👷‍♂️ - Aula em construção
+- ✏️ - Aula com tarefa
+- 🔁 - Aula pronta, porém está passando por ajustes
+
+  ### 🚨 Atenção
+
+  Apesar de algumas aulas estarem prontas, ainda não fiz upload e nem commitei.
