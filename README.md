@@ -30,4 +30,4 @@ ___
 
   ### 🚨 Atenção
 
-  Apesar de algumas aulas estarem prontas, ainda não fiz upload e nem commitei.
+  Apesar de algumas aulas estarem prontas, ainda não fiz upload e nem commitei. Todas as aulas vão passar por uma revisão final, então algumas mudanças podem acontecer.
